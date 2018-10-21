@@ -1,5 +1,8 @@
 # hello-world
 learning
-yes, decided to learn to code because I don't want to wage-slave at the corporation and I want to have some freedom to wake up whenever I want. Sleep is eesential for my brains. :D
+yes, decided to learn to code because I don't want to wage-slave at the corporation and I want to have some freedom to wake up whenever I want. Sleep is eesential for my brain. :D
+
+error corrected at 3rd line
+
 
 Over
